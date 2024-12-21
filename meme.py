@@ -8,6 +8,7 @@ meme_dict = {
     "OBO": "¿Qué es obo?",
     "UWU": "Es alguien bien kawai",
     "WTF": "¡Qué grosero!",
+    "RANDOM": "que inesperado",
 }
 
 # Mostrar las palabras disponibles
